@@ -25,7 +25,7 @@ A lightweight AI proxy server that provides:
 
 🧭 Repository Structure
 
-```css
+```
 demos/
 │
 ├── ai-chat-prefill-server/
