@@ -1,0 +1,21 @@
+amount,currency,due_date,description,company,contact
+1.00,USD,2025-10-02,"Amount: $1.00 USD
+Due: 2025-10-02
+Company: C1
+Contact: c1@c.com",C1,
+2.00,USD,2025-10-03,"Amount: $2.00 USD
+Due: 2025-10-03
+Company: C2
+Contact: c2@c.com",C2,
+3.00,USD,2025-10-04,"Amount: $3.00 USD
+Due: 2025-10-04
+Company: C3
+Contact: c3@c.com",C3,
+4.00,USD,2025-10-05,"Amount: $4.00 USD
+Due: 2025-10-05
+Company: C4
+Contact: c4@c.com",C4,
+5.00,USD,2025-10-06,"Amount: $5.00 USD
+Due: 2025-10-06
+Company: C5
+Contact: c5@c.com",C5,

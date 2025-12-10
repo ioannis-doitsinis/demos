@@ -1,0 +1,51 @@
+Subject: Your Invoice INV-001 for Development Work
+From: accounts@brightline.tech
+
+To: client@example.com
+
+Date: December 15, 2024
+
+Hello,
+
+This message is to let you know that your latest invoice has been prepared and is ready for review.
+
+Attached is invoice INV-001, covering development services performed between November 1 and November 30, 2024. The work completed during this cycle includes:
+
+
+UI component development in React (40 hours)
+
+Backend service build-out using FastAPI (35 hours)
+
+Database structure planning and performance tuning (15 hours)
+
+Unit and integration test implementation (20 hours)
+
+Documentation updates and code quality review (10 hours)
+
+The total amount due is $1,500.00 USD, based on 120 hours billed at our standard hourly rate of $125.
+
+
+Invoice Summary:
+
+Invoice ID: INV-001
+
+Amount Due: $1,500.00 USD
+
+Due Date: January 15, 2025 (Net 30)
+
+Accepted Payments: ACH, bank transfer, or mailed check
+
+A monthly late charge of 1.5% applies to overdue balances. We also offer a 2% discount if payment is submitted within 10 days of the invoice date.
+
+If you have any questions about this invoice or need clarification on any part of it, feel free to reach out to our accounts team. We appreciate the opportunity to support your ongoing project work.
+
+Thank you for working with Brightline Tech.
+
+Kind regards,
+Lena Morales
+Accounts Manager
+Brightline Tech
+accounts@brightline.tech
+
+(555) 987-2214
+brightline.tech
