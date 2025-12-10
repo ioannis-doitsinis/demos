@@ -137,12 +137,12 @@ This will append a row to data.csv with the same fields.
 
   4. Configure environment variables
 
-    Create a .env file:
+  Create a .env file:
 
-    ```bash
-    OPENAI_API_KEY=your_openai_key_here   # optional, needed for paid OpenAI models
-    OPENROUTER_API_KEY=your_openrouter_key_here     # optional, needed for :free models via OpenRouter
-    ```
+  ```bash
+  OPENAI_API_KEY=your_openai_key_here   # optional, needed for paid OpenAI models
+  OPENROUTER_API_KEY=your_openrouter_key_here     # optional, needed for :free models via OpenRouter
+  ```
 
   You can use:
 
@@ -155,7 +155,7 @@ This will append a row to data.csv with the same fields.
   Start FastAPI with Uvicorn:
 
   ```bash
-    uvicorn main:app --reload --host 127.0.0.1 --port 8090
+  uvicorn main:app --reload --host 127.0.0.1 --port 8090
   ```
   Access the API:
 
